@@ -1,7 +1,6 @@
 # ideationingisms
 Come and they will build it.
 
-- [ideas/they-live.md](They Live)
 - [They Live](ideas/they-live.md)
 
 This is done in the style of John Carpenter's *They Live*, a movie that I have not seen.
