@@ -5,3 +5,4 @@ Come and they will build it.
 - [Star Trek Holo-locator](ideas/star-trek.md)
 - [Comparisonater](ideas/compare.md)
 - [Idea voting](ideas/vote.md)
+- [Social movie network](ideas/movie-compare.md)
